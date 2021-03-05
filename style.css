@@ -1,8 +1,8 @@
 
 
 body {
-    background: url('img/bg.jpg') 50% no-repeat fixed;
-    background-color: #fff;
+    background: url('img/bg2.png') 50% no-repeat fixed;
+    /* background-color: rgb(88, 88, 88); */
     background-size: cover;
     color: #000;
     height: 100vh;
