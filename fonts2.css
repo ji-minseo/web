@@ -132,3 +132,7 @@ body {
   .text-info {
     color: #009eeb;
   }
+  .folder {
+    display: inline-block;
+  }
+  
