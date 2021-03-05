@@ -43,3 +43,22 @@ function randomObject() {
 
 
 }
+
+function folder() {
+
+  let elem = document.getElementById('nav');
+  let ht = window.getComputedStyle(elem, null).getPropertyValue("display");
+  console.log(  ht);
+
+
+  if(ht == "inline-block")
+   {
+     
+    document.getElementById("nav").style.display = "none";
+
+   }
+   else {
+    document.getElementById("nav").style.display = "inline-block";
+
+   }
+}
