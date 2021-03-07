@@ -15,11 +15,15 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Bellefair&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap');
 
 body {
   /* font-family: 'Archivo Black', sans-serif; */
-  font-family: 'DotGothic16', sans-serif;
+  /* font-family: 'DotGothic16', sans-serif; */
   /* font-family: 'Bangers', cursive; */
+  font-family: 'Noto Sans', sans-serif;
       letter-spacing: 0.055em;
   }
 
