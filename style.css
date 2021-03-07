@@ -411,9 +411,6 @@ ul li {
   width: 200px;
 }
 
-#logo {
- 
-}
 
 a:link, a:visited {
   text-decoration: none;
@@ -607,7 +604,7 @@ a:hover, a:active {
   }
  
   .right {
-    margin-left:0;
+    margin-left:0px;
   }
   
   .window, .window img {
@@ -625,13 +622,5 @@ a:hover, a:active {
       /* max-width: 1000px; */
       width: 380px;
       margin-bottom: 100px;
-  }
-
-  #logo {
-      /* position:fixed;
-      top:30%;
-      left:18%;
-      z-index: -1;
-      width: 400px; */
   }
 }
