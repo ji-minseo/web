@@ -496,24 +496,24 @@ a:hover, a:active {
   top:400px;
   left:55px;
 } */
-#folders {
+#folder{
   display: none;
   /* position: fixed; */
 }
 
 @media (max-width:768px) {
 
-  #folders {
+  #folder {
     display: inline-block;
     position: fixed;
-    top:87%;
+    /* top:90%; */
     /* right:40%; */
     z-index: 100;
     cursor: pointer;
 
   }
-  #folders p {
-    margin-top: -10px;
+  #folder p {
+    /* margin-top: -10px; */
     
   }
 
