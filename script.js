@@ -55,10 +55,14 @@ function folder() {
    {
      
     document.getElementById("nav").style.display = "none";
+    document.getElementsByClassName("right")[0].style.marginLeft = '0px';
+
 
    }
    else {
     document.getElementById("nav").style.display = "inline-block";
+    document.getElementsByClassName("right")[0].style.marginLeft = '310px';
+
 
    }
 }
